@@ -1,8 +1,8 @@
 ## ABOUT ME
 
-I'm a Marketing Degree graduate learning about Data Science. I'm currently taking part in the Data Science Bootcamp at The Bridge: Digital Talent Accelerator.
+I'm a Marketing Degree graduate learning about Data Science. I'm currently taking part in the Data Science Bootcamp at The Bridge: Digital Talent Accelerator. The mix of business and technical knowledge allow me to extract conclusions and make decisiions based on data.
 
-I consider myself a thorough and careful person, with initiative to make decisions and overcome difficulties, and ready to work in a team.
+I consider myself a thorough and careful person, with initiative to make decisions and overcome difficulties, and ready to work in a team. I am very curious and eager to learn about upcoming technology breakthroughs, such as AI. You can check out my LinkedIn profile right here: https://www.linkedin.com/in/ibaivalentelavado/
 
 ## WORK EXPERIENCE
 
