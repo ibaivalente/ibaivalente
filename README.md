@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-I'm a Marketing Degree graduate learning about Data Science. I'm currently taking part in the Data Science Bootcamp at The Bridge: Digital Talent Accelerator. The mix of business and technical knowledge allow me to extract conclusions and make decisions based on data.
+I'm a Marketing Degree graduate learning about Data Science. I recently graduated from a Data Science Bootcamp at The Bridge: Digital Talent Accelerator and I'm currently taking part in a Web/Cloud app development professional certificate using .NET technology. The mix of business and technical knowledge allow me to extract conclusions and make decisions based on data.
 
 I consider myself a thorough and careful person, with initiative to make decisions and overcome difficulties, and ready to work in a team. I am very curious and eager to learn about upcoming technology breakthroughs, such as AI. You can check out my LinkedIn profile right here: https://www.linkedin.com/in/ibaivalentelavado/
 
@@ -34,9 +34,15 @@ February '22 - May '22
 
 ## ACADEMIC TRAINING
 
-### *Data Science Bootcamp*
+### *Web/Cloud app development with .NET professional certificate*
 
 - Ongoing
+
+- GAIA - DEMA cluster (Laborlan V program by Diputación Foral de Bizkaia / Bizkaiko Foru Aldundia)
+
+### *Data Science Bootcamp*
+
+- 2023 - 2024
 
 - The Bridge | Digital Talent Accelerator
 
