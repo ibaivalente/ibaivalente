@@ -14,10 +14,10 @@ October '24 - Ongoing
 2. Power BI dashboard development for different clients
 3. Daily use of different programming languages, mainly Python and C# for different purposes, as well as libraries
 
-## Previos work experience
+## PREVIOUS WORK EXPERIENCE
+
 If you are curious about my previos work experience, I have worked in sales, marketing and even social media.
 Although I am currently not working in marketing, those experiences provided me with social habilites that I find very useful in my carreer in IT
-
 
 ## ACADEMIC TRAINING
 
