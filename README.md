@@ -16,8 +16,8 @@ October '24 - October '25
 
 ## PREVIOUS WORK EXPERIENCE
 
-If you are curious about my previos work experience, I have worked in sales, marketing and even social media.
-Although I am currently not working in marketing, those experiences provided me with social habilites that I find very useful in my carreer in IT
+If you are curious about my previous work experience, I have worked in sales, marketing and even social media.
+Although I am no longer working in marketing, those experiences provided me with social abilites that I find very useful in my carreer in IT.
 
 ## ACADEMIC TRAINING
 
@@ -44,7 +44,7 @@ Although I am currently not working in marketing, those experiences provided me 
 
 - 2018 - 2022
 
-- Universidad del País Vasco / Euskal Herriko Unibertsitatea
+- Universidad del País Vasco / Euskal Herriko Unibertsitatea (EHU)
 
 
 ## LANGUAGES
