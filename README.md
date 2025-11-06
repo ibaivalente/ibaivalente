@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-After graduating from a Data Science Bootcamp, I enrolled at a Web Development Professional Certificate, using Angular & ASP.NET Core. I combine soft skills with technical knowledge in order to provide effective web solutions and accurate data analysis. After having worked for a year as a Data Scientist at RDT, obtaining, analysing, visualising and modelling industrial data, creating solutions for predictive machine maintenance, now I am currently pursuing my Master's Degree in Data Science at the Universitat Oberta de Catalunya (UOC), expected to finish July 2026.
+After graduating from a Data Science Bootcamp, I enrolled at a Web Development Professional Certificate, using Angular & ASP.NET Core. I combine soft skills with technical knowledge in order to provide effective web solutions and accurate data analysis. After having worked for a year as a Data Scientist at RDT, obtaining, analysing, visualising and modelling industrial data in order to create solutions for predictive machine maintenance, now I am currently pursuing my Master's Degree in Data Science at the Universitat Oberta de Catalunya (UOC), expected to finish July 2026.
 
 I consider myself a thorough and careful person, with initiative to make decisions and overcome difficulties, and ready to work in a team. I am very curious and eager to learn about upcoming technology breakthroughs, such as AI. You can check out my LinkedIn profile right here: https://www.linkedin.com/in/ibaivalentelavado/
 
